@@ -1,2 +1,5 @@
-# clase1DisWeb
-Class One Web Design 
+# Online Store
+
+Josue Chinchilla
+Oscar Fabian Chacon
+Jose Sanchez 
