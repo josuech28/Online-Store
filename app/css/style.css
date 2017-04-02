@@ -1,9 +1,45 @@
+
+/*HERO CONTAINER*/
+.hero-container {
+    background-color: #0080FF;
+}
+
+.hero-page {
+  background: url(../images/background-image.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  min-height: 400px;
+}
+
+.form-seacrh-hero {
+    padding-top: 200px;
+}
+
 .star-rating {
   line-height:32px;
   font-size:1.25em;
   cursor: pointer;
 }
 
+/*THUMBNAILS FOR THE PRODUCTS*/
+.thumbnail {
+    border-bottom: 5px solid #0080FF;
+}
+
+/*LIST PRODUCTS*/
+.btn-actions {
+    margin-top: 10px;
+}
+
+/*FOOTER*/
+.footer {
+    background-color: #222;
+    color: #ccc;
+}
+
+/*MEDIA QUERIES*/
 @media screen and (max-width: 1030px){
   .hidden-element {
     display: none;
