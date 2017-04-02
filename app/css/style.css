@@ -3,3 +3,9 @@
   font-size:1.25em;
   cursor: pointer;
 }
+
+@media screen and (max-width: 1030px){
+  .hidden-element {
+    display: none;
+  }
+}
