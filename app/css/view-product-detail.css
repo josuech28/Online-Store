@@ -1,0 +1,39 @@
+
+
+h3 {
+  margin-top:0px;
+}
+
+h5, small {
+  color:#337ab7;
+}
+
+p {
+  padding:15px;
+}
+
+img {
+  max-width:100%;
+}
+
+.title-attr {
+  margin-top:15px;
+}
+
+.section {
+  padding-bottom:20px;
+}
+
+.col-xs-5 {
+  border:0px solid gray;
+}
+
+.span {
+  margin-right:20px;
+  cursor:pointer;
+}
+
+.description {
+  width:100%;
+  border-top:1px solid silver;
+}
