@@ -77,6 +77,12 @@ html body {
     margin-top: 10px;
 }
 
+/* CLIENT REVIEW */
+.item-comment {
+  margin: 5px;
+  padding: 10px;
+}
+
 /*FOOTER*/
 .footer {
     background-color: #222;
