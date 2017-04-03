@@ -81,7 +81,6 @@ html body {
 .item-comment {
   margin: 5px;
   padding: 10px;
-  /* add comment to delete! */
 }
 
 /*FOOTER*/
@@ -114,6 +113,13 @@ html body {
   .carousel .item {
     height: 470px;
     width: 100%;
+    background-color: black;
+  }
+  .my-nav .navbar-nav a {
+    color: white  !important;
+  }
+  .my-nav .navbar-nav .dropdown-menu a {
+    color: white !important;
   }
   .carousel img {
     width: 100%;
