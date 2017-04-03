@@ -1,4 +1,7 @@
 /*HEADER*/
+html body {
+  overflow-x: none;
+}
 .body {
   margin: 0;
 }
