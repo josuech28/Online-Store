@@ -1,6 +1,6 @@
 /*HEADER*/
 html body {
-  overflow-x: none;
+  overflow-x: hidden;
 }
 .body {
   margin: 0;
@@ -87,6 +87,7 @@ html body {
 .footer {
     background-color: #222;
     color: #ccc;
+    padding: 10px;
 }
 
 .map {
