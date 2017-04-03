@@ -1,8 +1,11 @@
+/*HEADER*/
 html body {
   overflow-x: none;
 }
+.body {
+  margin: 0;
+}
 
-/*HEADER*/
 .navbar-brand {
   color: black !important;
   font-size: 28px;
@@ -85,6 +88,15 @@ html body {
   height:200;
   margin-top: 0;
   margin:0;
+}
+
+.footer-icons  {
+  text-align: center;
+}
+
+.footer-icons > a > i {
+  font-size: 30px;
+  padding: 10px;
 }
 
 /*MEDIA QUERIES*/
