@@ -6,6 +6,7 @@ html body {
   margin: 0;
 }
 
+/*Nav*/
 .navbar-brand {
   color: black !important;
   font-size: 28px;
@@ -40,7 +41,6 @@ html body {
   left: 0;
   width: 100%;
   height: 100%;
-  background: cover;
 }
 
 /*HERO CONTAINER*/
@@ -72,6 +72,12 @@ html body {
     border-bottom: 5px solid #0080FF;
 }
 
+/* Small text */
+.small-text {
+      color: #337ab7;
+      font-size: 85%;
+}
+
 /*LIST PRODUCTS*/
 .btn-actions {
     margin-top: 10px;
@@ -92,7 +98,7 @@ html body {
 
 .map {
   width:100%;
-  height:200;
+  height:200px;
   margin-top: 0;
   margin:0;
 }
